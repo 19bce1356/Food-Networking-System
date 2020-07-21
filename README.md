@@ -1,0 +1,2 @@
+# Food-Networking-System
+To develop a system that can create awareness to the chef in the kitchen about their dishes and help them to manage their ingredients for a more efficient cooking and food organizing processes. From our website, we can solve the issue which is existing in the previous time. By these websites, we are going to bring a different kind of food items in one place and make the user share their knowledge with others and know about the different food items.
